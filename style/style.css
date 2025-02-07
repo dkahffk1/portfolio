@@ -1,0 +1,138 @@
+body {
+    background-color: #4B4C4E;
+    padding-right: 60px;
+}
+.main_container {
+    display: flex;
+}
+
+.main_text {
+    width: 250px;
+    background: #4B4C4E;
+    height: 100px;
+}
+
+.line {
+    width: 100%;
+    height: 10px;
+    background: #000;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background-color: #D9D9D9;
+}
+
+.side_bar {
+    width: 300px;
+    height: 100vh;
+    background-color: #4B4C4E;
+}
+.main_style{
+    font-size: 32px;
+    font-weight: bold;   
+}
+.side_style {
+    font-size: 20px;
+    font-weight: 500;
+}
+.number{
+    width: 60px;
+    height: 25px;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width: 0px 2px 3px 0px;
+    border-style: solid;
+    
+}
+.title{
+    width: 350px;
+    font-size: 19px;
+    font-weight: 550;
+    border-width: 0px 2px 3px 0px;
+    border-style: solid;
+    text-align: center;
+}
+.people {
+    width: 100px;
+    font-size: 19px;
+    font-weight: 550;
+    border-width: 0px 2px 3px 0px;
+    border-style: solid;
+    text-align: center;
+}
+.day {
+    width: 80px;
+    font-size: 19px;
+    font-weight: 550;
+    border-width: 0px 2px 3px 0px;
+    border-style: solid;
+    text-align: center;
+}
+.click_try {
+    width: 80px;;
+    font-size: 19px;
+    font-weight: 550;
+    border-width: 0px 2px 3px 0px;
+    border-style: solid;
+    text-align: center;
+}
+.good {
+    width: 80px;
+    font-size: 19px;
+    font-weight: 550;
+    border-width: 0px 0px 3px 0px;
+    border-style: solid;
+    text-align: center;
+}
+.number_c{
+    width: 60px;
+    height: 25px;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width : 0px 0px 2px 0px;
+    border-style: solid;
+}
+.title_c{
+    width: 350px;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width : 0px 0px 2px 0px;
+    border-style: solid;
+}
+.people_c {
+    width: 100px;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width : 0px 0px 2px 0px;
+    border-style: solid;
+}
+.day_c {
+    width: 80px;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width : 0px 0px 2px 0px;
+    border-style: solid;
+}
+.click_try_c {
+    width: 80px;;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width : 0px 0px 2px 0px;
+    border-style: solid;
+}
+.good_c {
+    width: 80px;
+    font-size: 19px;
+    font-weight: 550;
+    text-align: center;
+    border-width : 0px 0px 2px 0px;
+    border-style: solid;
+}
