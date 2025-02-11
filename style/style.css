@@ -1,5 +1,5 @@
 body {
-    background-color: #4B4C4E;
+    background-color: #8CA1C1;;
     padding-right: 60px;
 }
 .main_container {
@@ -7,7 +7,7 @@ body {
 }
 
 .main_text {
-    width: 250px;
+    width: 100%;
     background: #4B4C4E;
     height: 100px;
 }
@@ -135,4 +135,14 @@ body {
     text-align: center;
     border-width : 0px 0px 2px 0px;
     border-style: solid;
+}
+.main_side {
+    font-size: 28px;
+    font-weight: bolder;
+    color: white;
+}
+.sub_side {
+    font-size: 18px;
+    font-weight: bold;
+    color:white;
 }
