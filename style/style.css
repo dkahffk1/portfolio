@@ -136,3 +136,8 @@ body {
     border-width : 0px 0px 2px 0px;
     border-style: solid;
 }
+.main_side {
+    font-size: 28px;
+    font-weight: bolder;
+    text-align: center;
+}
