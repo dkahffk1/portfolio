@@ -143,6 +143,10 @@ body {
 }
 .sub_side {
     font-size: 18px;
-    font-weight: bold;
     color:white;
+    text-align: center;
+}
+.write {
+    background-color: #4B4C4E;
+    border:black;
 }
